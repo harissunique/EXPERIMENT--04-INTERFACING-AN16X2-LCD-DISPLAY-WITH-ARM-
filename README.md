@@ -175,6 +175,10 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
+NAME : SANJAY C
+REG NO : 212223240150
+```
+```
 MX_GPIO_Init();
   Lcd_PortType ports[] = { GPIOA, GPIOA, GPIOA, GPIOA };
      Lcd_PinType pins[] = {GPIO_PIN_3, GPIO_PIN_2, GPIO_PIN_1, GPIO_PIN_0};
