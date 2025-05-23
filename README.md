@@ -175,8 +175,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME : SANJAY C
-REG NO : 212223240150
+NAME : HARISHKUMAR R
+REG NO : 212223230073
 ```
 ```
 MX_GPIO_Init();
@@ -185,16 +185,16 @@ MX_GPIO_Init();
      Lcd_HandleTypeDef lcd;
      lcd = Lcd_create(ports, pins, GPIOB, GPIO_PIN_0, GPIOB, GPIO_PIN_1, LCD_4_BIT_MODE);
      Lcd_cursor(&lcd, 0,1);
-     Lcd_string(&lcd, "BEATRICE");
+     Lcd_string(&lcd, "GOKHUL RAJ");
      Lcd_cursor(&lcd, 1,1);
-     Lcd_string(&lcd, "212223110005");
+     Lcd_string(&lcd, "212223230064");
 ```
 
 
 
 ## Output screen shots of proteus  :
 
-![Screenshot 2025-04-22 080748](https://github.com/user-attachments/assets/87c81183-5456-43ed-8a5d-e57538b97af8)
+![Screenshot 2025-04-21 144249](https://github.com/user-attachments/assets/fdc09b4c-a1f4-4e4c-8617-48be12f34c4d)
 
  ![Screenshot 2025-04-22 080613](https://github.com/user-attachments/assets/ab1d02b7-31e3-42ee-b385-00e8c7be7726)
 
